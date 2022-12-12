@@ -293,7 +293,7 @@ body {
 .footer {
   display: flex;
   position: absolute;
-  bottom: -770px;
+  top: 1490px;
 }
 
 .footer__row {
